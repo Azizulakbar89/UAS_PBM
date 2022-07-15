@@ -1,0 +1,24 @@
+<resources>
+
+    <string-array name="HariMK">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+    </string-array>
+
+    <string-array name="KelasMK">
+        <item>B401</item>
+        <item>BB</item>
+        <item>M304</item>
+        <item>M306</item>
+        <item>M405</item>
+        <item>AUDIT</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="UAS_PBM"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+

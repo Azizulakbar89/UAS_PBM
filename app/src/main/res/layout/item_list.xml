@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_marginStart="20dp"
+        android:id="@+id/namamk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama Matkul"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_marginStart="20dp"
+        android:id="@+id/jammk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jam Matkul"
+        android:textSize="20sp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_marginStart="20dp"
+        android:id="@+id/harimk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hari Matkul"
+        android:textSize="20sp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:layout_marginStart="20dp"
+        android:id="@+id/kelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kelas Matkul"
+        android:textSize="20sp"
+        android:textColor="@color/black"/>
+</LinearLayout>
